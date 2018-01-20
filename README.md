@@ -7,6 +7,8 @@ This is actually a pre-requisite collection of courses I have to take to learn m
 relevant certificates here: 
 
 https://www.coursera.org/account/accomplishments/certificate/HN8DQ43CNLEH (Algorithmic Toolbox) -- Earned on Oct. 2017
+
 https://www.coursera.org/account/accomplishments/certificate/UMXB6YTZUGVG (Data Structures) -- Earned on Nov. 2017
+
 https://www.coursera.org/account/accomplishments/certificate/8RWDKL48SYP6 (Algorithms on Graphs) -- Earned on Jan. 2018
 
